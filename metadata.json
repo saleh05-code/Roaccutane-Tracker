@@ -1,0 +1,6 @@
+{
+  "name": "Roaccutane Tracker",
+  "description": "A medical tracker for patients on Roaccutane, calculating cumulative doses, remaining course days, physical & psychological symptoms, appointment logging, and an integrated Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
