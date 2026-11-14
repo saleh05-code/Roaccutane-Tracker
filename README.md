@@ -26,3 +26,4 @@ View your app in AI Studio: https://ai.studio/apps/c257df3c-d426-412c-8988-2c389
 Copyright © 2026 Saleh Mahdi Al Haddad. All Rights Reserved.
 This code is shared for portfolio and demonstration purposes only; commercial use is prohibited without explict permission.
 
+​**Disclaimer:** This application is developed for educational and personal portfolio purposes as a prototype. It is not a certified medical device and does not provide medical diagnoses or professional prescriptions. Always consult a qualified healthcare provider in the Kingdom of Saudi Arabia for any medical decisions.
