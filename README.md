@@ -9,3 +9,8 @@
   <a href="https://aistudio.google.com/apps">Start building</a>
 
 </div>
+
+---
+##  Copyright & Usage Notice
+Copyright © 2026 Saleh Mahdi Al Haddad. All Rights Reserved.
+This code is shared for portolio and demonstration purposes only; commertial use is prohibited without explict permission.
